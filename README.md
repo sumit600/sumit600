@@ -1,6 +1,6 @@
 💫 About Me
 
-👋 Hi, I'm Sumit Sharma — a passionate Frontend Web Developer specialized in building visually rich, interactive, and high-performance web experiences.
+👋 Hi, I'm Sumit Sharma a passionate Frontend Web Developer specialized in building visually rich, interactive, and high-performance web experiences.
 
 I love turning creative ideas into immersive UI using:
 ✨ React.js
@@ -70,8 +70,8 @@ Full stack workflows
 
 📬 Connect With Me
 
-📩 Email: (add your email)
-🔗 LinkedIn: (add your link)
+📩 Email: sumitsharma.dev99@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/sumit-kumar-sharma-4a7f
 🌐 Portfolio website: (add your link)
 
 Let me know if you want:
@@ -141,7 +141,6 @@ VS Code
 🔹 React Landing Pages – Modern UI + smooth animations
 🔹 Frontend mini apps – cart, auth, music player, movie trailers, etc.
 
-(Add links once ready)
 
 🌱 Currently Learning
 
