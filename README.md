@@ -160,6 +160,6 @@ Full-stack workflows
 
 📬 Connect With Me
 
-📩 Email: (add your email)
-🔗 LinkedIn: (add your link)
+📩 Email: sumitsharma.dev99@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/sumit-kumar-sharma-4a7f
 🌐 Portfolio: (add your link)
