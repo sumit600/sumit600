@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumit Sharma</h1>
+<h1 align="center">Hi 👋, I'm Sumit kumar Sharma</h1>
 <h3 align="center">Frontend Web Developer | React • GSAP • Three.js</h3>
 
 <p align="center">
