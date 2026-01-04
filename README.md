@@ -1,75 +1,100 @@
-💫 About Me
+<h1 align="center">Hi 👋, I'm Sumit Sharma</h1>
+<h3 align="center">Frontend Web Developer | React • GSAP • Three.js</h3>
 
-👋 Hi, I'm Sumit Sharma, a passionate Frontend Web Developer specialized in building visually rich, interactive, and high-performance web experiences.
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumit-kumar-sharma-4a7f" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/>
+  </a>
+  <a href="mailto:sumitsharma.dev99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"/>
+  </a>
+</p>
 
-I love turning creative ideas into immersive UI using:
-✨ React.js
-✨ GSAP animations
-✨ Three.js 3D web scenes
-✨ Tailwind CSS for styling
+---
 
-Always exploring new frameworks, improving UI/UX, and pushing boundaries in frontend engineering.
+## 💫 About Me  
 
-🚀 Skills
-💻 Frontend Development
+👋 Hi, I'm **Sumit Sharma**, a passionate **Frontend Web Developer** focused on building  
+**visually rich, interactive, and high-performance web experiences**.
 
-HTML5, CSS3, JavaScript (ES6+)
+I love turning creative ideas into immersive UI using:  
+✨ **React.js**  
+✨ **GSAP animations**  
+✨ **Three.js 3D web scenes**  
+✨ **Tailwind CSS & SCSS**
 
-React.js | Hooks | Context API
+I’m always exploring modern frontend patterns, improving UI/UX, and pushing creative boundaries.
 
-Responsive UI
+---
 
-Tailwind CSS
+## 🚀 Skills  
 
-API integration
+### 💻 Frontend Development  
+- HTML5, CSS3, JavaScript (ES6+)  
+- React.js | Hooks | Context API  
+- **React Router DOM (Client-Side Rendering – CSR)**  
+- Tailwind CSS & **SCSS (modular styling)**  
+- Responsive & mobile-first UI  
+- REST API integration  
 
-🎨 Motion & 3D Web
+### 🎨 Motion & 3D Web  
+- GSAP animations  
+- ScrollTrigger interactions  
+- Three.js 3D scenes & models  
+- WebGL visuals  
 
-GSAP animation
+### 🛠️ Tools & Technologies  
+- Git & GitHub  
+- Vite  
+- npm / yarn  
+- Figma  
+- VS Code  
 
-ScrollTrigger interaction
+---
 
-Three.js 3D scenes and models
+## 📌 Projects  
 
-WebGL visuals
+🔹 **Interactive 3D Experience Website**  
+> Three.js + GSAP scroll-based animations  
 
-🛠️ Tools & Technologies
+🔹 **Portfolio Website**  
+> React + Tailwind + React Router (CSR)  
 
-Git & GitHub
+🔹 **React Landing Pages**  
+> Modern UI with smooth animations  
 
-Vite
+🔹 **Frontend Mini Apps**  
+> Cart • Authentication • Music Player • Movie Trailers  
 
-npm / yarn
+---
 
-Figma
+## 🌱 Currently Learning  
+- Advanced Three.js  
+- Backend & Databases  
+- UI performance optimization  
+- Full-stack workflows  
 
-VS Code
+---
 
-📌 My Projects
+## 📊 GitHub Stats  
 
-🔹 Interactive 3D Experience Website – Three.js + GSAP Scroll animations
-🔹 Portfolio website – React + Tailwind
-🔹 React Landing Pages – Modern UI + smooth animations
-🔹 Frontend mini apps – cart, auth, music player, movie trailers, etc.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumit600&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit600&theme=tokyonight" height="160"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit600&layout=compact&theme=tokyonight"/>
+</p>
 
-🌱 Currently Learning
+---
 
-Advanced Three.js
+## 📬 Connect With Me  
 
-Backend + databases
+📩 **Email:** sumitsharma.dev99@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sumit-kumar-sharma-4a7f  
+🌐 **Portfolio:** _Coming Soon_  
 
-UI performance optimization
+---
 
-Full-stack workflows
-
-📊 GitHub Status
-
-⭐ Actively building modern UI/UX with animation and scalable styling.
-📌 Focused on reusability, design systems, and frontend logic.
-
-📬 Connect With Me
-
-📩 Email: sumitsharma.dev99@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/sumit-kumar-sharma-4a7f
-🌐 Portfolio: (add your link)
+⭐ *Focused on reusable components, scalable styling, smooth animations, and clean frontend logic.*
