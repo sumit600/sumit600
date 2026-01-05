@@ -76,6 +76,14 @@ I’m always exploring modern frontend patterns, improving UI/UX, and pushing cr
 
 ---
 
+## 🧠 What I Bring  
+
+- Clean, scalable, and reusable React components  
+- Smooth, performance-optimized animations (60fps mindset)  
+- Strong eye for UI/UX and
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
