@@ -84,19 +84,6 @@ I’m always exploring modern frontend patterns, improving UI/UX, and pushing cr
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumit600&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit600&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit600&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📬 Connect With Me  
 
 📩 **Email:** sumitsharma.dev99@gmail.com  
